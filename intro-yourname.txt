@@ -1,1 +1,3 @@
-#discription as the group leader!!!!
+Hi — I'm Pratikshya Subedi
+Role: Developer (frontend).
+I will work on the bio page and README.
