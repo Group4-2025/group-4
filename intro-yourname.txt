@@ -1,3 +1,15 @@
-Hi — I'm Pratikshya Subedi
-Role: Developer (frontend).
-I will work on the bio page and README.
+Hi, I’m Pratikshya Subedi.
+Role: Frontend Developer
+I will design and implement the bio page and contribute to improving the README for clear project documentation.
+
+Hi, I’m Ashish.
+Role: Designer
+I will focus on creating layouts, visuals, and ensuring the project looks professional and user-friendly.
+
+Hi, I’m Arbin.
+Role: Reviewer
+I will review the code, check for errors, and provide constructive feedback to maintain high quality.
+
+Hi, I’m Rudra.
+Role: Presenter
+I will present our project updates and final results to the class, making sure our work is communicated effectively.
